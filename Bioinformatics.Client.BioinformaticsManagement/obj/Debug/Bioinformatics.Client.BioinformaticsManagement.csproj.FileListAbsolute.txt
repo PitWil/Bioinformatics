@@ -104,3 +104,6 @@ C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — ko
 C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.application
 C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.exe
 C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\rep2\Bioinformstics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\BioinformaticsManagement.exe.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\rep2\Bioinformstics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.exe
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\rep2\Bioinformstics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.pdb
