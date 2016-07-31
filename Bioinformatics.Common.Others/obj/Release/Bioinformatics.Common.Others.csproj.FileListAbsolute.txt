@@ -1,0 +1,4 @@
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Common.Others\bin\Release\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Common.Others\bin\Release\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Common.Others\obj\Release\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Common.Others\obj\Release\Bioinformatics.Common.Others.pdb

@@ -1,0 +1,11 @@
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Contracts\bin\Release\Bioinformatics.Buisness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Contracts\bin\Release\Bioinformatics.Buisness.Contracts.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Contracts\bin\Release\Bioinformatics.Buisness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Contracts\bin\Release\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Contracts\bin\Release\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Contracts\bin\Release\Bioinformatics.Buisness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Contracts\bin\Release\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Contracts\bin\Release\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Contracts\obj\Release\Bioinformatics.Buisness.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Contracts\obj\Release\Bioinformatics.Buisness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Contracts\obj\Release\Bioinformatics.Buisness.Contracts.pdb

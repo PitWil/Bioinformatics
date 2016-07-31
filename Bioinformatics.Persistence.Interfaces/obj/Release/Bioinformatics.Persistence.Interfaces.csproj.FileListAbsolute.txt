@@ -1,0 +1,9 @@
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Interfaces\bin\Release\Bioinformatics.Persistence.Interfaces.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Interfaces\bin\Release\Bioinformatics.Persistence.Interfaces.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Interfaces\bin\Release\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Interfaces\bin\Release\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Interfaces\bin\Release\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Interfaces\bin\Release\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Interfaces\obj\Release\Bioinformatics.Persistence.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Interfaces\obj\Release\Bioinformatics.Persistence.Interfaces.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Interfaces\obj\Release\Bioinformatics.Persistence.Interfaces.pdb

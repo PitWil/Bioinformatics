@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Bioinformatics.Buisness.Models"
+           elementFormDefault="qualified"
+           targetNamespace="http://schemas.datacontract.org/2004/07/Bioinformatics.Buisness.Models"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:17492/AntsService.svc?xsd=xsd4"
+             namespace="http://schemas.datacontract.org/2004/07/Bioinformatics.Buisness.Models.Ants" />
+  <xs:import schemaLocation="http://localhost:17492/AntsService.svc?xsd=xsd5"
+             namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:complexType name="AntsConfigurationModel">
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Bioinformatics.Buisness.Models.Ants" minOccurs="0"
+                  name="Colonies" nillable="true" type="q1:ArrayOfColonyOfAnts" />
+      <xs:element minOccurs="0" name="CounterNodes" nillable="true" type="tns:ArrayOfProteinNode" />
+      <xs:element minOccurs="0" name="NegativeNodesToVerif" nillable="true" type="tns:ArrayOfProteinNode" />
+      <xs:element minOccurs="0" name="PositiveNodes" nillable="true" type="tns:ArrayOfProteinNode" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="AntsConfigurationModel" nillable="true" type="tns:AntsConfigurationModel" />
+  <xs:complexType name="ArrayOfProteinNode">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ProteinNode" nillable="true" type="tns:ProteinNode" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProteinNode" nillable="true" type="tns:ArrayOfProteinNode" />
+  <xs:complexType name="ProteinNode">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Neighbors" nillable="true" type="tns:ArrayOfProteinNode.ProteinWeigthNode" />
+      <xs:element xmlns:q2="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="_value"
+                  nillable="true" type="q2:ArrayOfstring" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProteinNode" nillable="true" type="tns:ProteinNode" />
+  <xs:complexType name="ArrayOfProteinNode.ProteinWeigthNode">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ProteinNode.ProteinWeigthNode" nillable="true"
+                  type="tns:ProteinNode.ProteinWeigthNode" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProteinNode.ProteinWeigthNode" nillable="true"
+              type="tns:ArrayOfProteinNode.ProteinWeigthNode" />
+  <xs:complexType name="ProteinNode.ProteinWeigthNode">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Node" nillable="true" type="tns:ProteinNode" />
+      <xs:element minOccurs="0" name="Weight" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProteinNode.ProteinWeigthNode" nillable="true" type="tns:ProteinNode.ProteinWeigthNode" />
+  <xs:simpleType name="ManagerState">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Ready" />
+      <xs:enumeration value="Started" />
+      <xs:enumeration value="Paused" />
+      <xs:enumeration value="Finished" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="ManagerState" nillable="true" type="tns:ManagerState" />
+  <xs:complexType name="StatusEntity">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Percentage" type="xs:double" />
+      <xs:element minOccurs="0" name="TimeToFinish" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StatusEntity" nillable="true" type="tns:StatusEntity" />
+</xs:schema>

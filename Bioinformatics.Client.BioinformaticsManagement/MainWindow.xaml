@@ -1,0 +1,177 @@
+﻿<Window x:Class="Bioinformatics.Client.BioinformaticsManagement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bioinformatics.Client.BioinformaticsManagement"
+        DataContext="{Binding Source={StaticResource Locator},Path=Main}"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="816.905" Width="716.488">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20 *" />
+            <RowDefinition Height="265*" />
+            <RowDefinition Height="20*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="67*" />
+        </Grid.ColumnDefinitions>
+        <Menu x:Name="menu" />
+        <StatusBar Grid.Row="2" />
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="239" Margin="25,346,0,0"
+                Grid.Row="1" VerticalAlignment="Top" Width="157">
+            <ListBox ItemsSource="{Binding PositiveExamples}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <CheckBox Content="{Binding Sequence}" IsChecked="{Binding IsChecked}" Margin="5 5 0 0" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Border>
+        <Button x:Name="SelectPositiveExamples" Content="Select 1/3" Command="{Binding SelectPositiveExamples}"
+                IsEnabled="{Binding PositiveExamplesButton}" HorizontalAlignment="Left" Height="22"
+                Margin="121,590,0,0" Grid.Row="1" VerticalAlignment="Top" Width="61" />
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="239" Margin="187,346,0,0"
+                Grid.Row="1" VerticalAlignment="Top" Width="157">
+            <ListBox ItemsSource="{Binding CounterExamples}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <CheckBox Content="{Binding Sequence}" IsChecked="{Binding IsChecked}" Margin="5 5 0 0" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Border>
+
+
+        <Button x:Name="SelectCounterExamples" Content="Select 1/3" Command="{Binding SelectCounterExamples}"
+                IsEnabled="{Binding CounterExamplesButton}" HorizontalAlignment="Left" Height="22" Margin="283,590,0,0"
+                Grid.Row="1" VerticalAlignment="Top" Width="61" />
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="239" Margin="362,346,0,0"
+                Grid.Row="1" VerticalAlignment="Top" Width="157">
+            <ListBox ItemsSource="{Binding SelectedPositiveExamples}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <CheckBox Content="{Binding Sequence}" IsChecked="{Binding IsChecked}" Margin="5 5 0 0" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="239" Margin="524,346,0,0"
+                Grid.Row="1" VerticalAlignment="Top" Width="157">
+            <ListBox ItemsSource="{Binding SelectedCounterExamples}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <CheckBox Content="{Binding Sequence}" IsChecked="{Binding IsChecked}" Margin="5 5 0 0" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Border>
+        <Button x:Name="ChooseProtein" Content="-&gt;" Command="{Binding ChooseProteins}"
+                IsEnabled="{Binding CounterExamplesButton}" HorizontalAlignment="Left" Height="22" Margin="314,319,0,0"
+                Grid.Row="1" VerticalAlignment="Top" Width="30" />
+        <Button x:Name="ChooseProtein2" Content="&lt;-" Command="{Binding RemoveProteins}"
+                IsEnabled="{Binding CounterExamplesButton}" HorizontalAlignment="Left" Height="22" Margin="362,319,0,0"
+                Grid.Row="1" VerticalAlignment="Top" Width="31" />
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="229" Margin="26,28,0,0"
+                Grid.Row="1" VerticalAlignment="Top" Width="234">
+            <StackPanel Orientation="Vertical" Margin="0,0,-91,0">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Width="221">
+                    <Label Content="Ants:" Width="140 " />
+                    <TextBox Width="70" Text="{Binding AntsCount}" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,0,102,0">
+                    <Label Content="Feromon:" Width="140" />
+                    <TextBox Width="70" Text="{Binding FeromonAntsExplorer}" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,0,102,0">
+                    <Label Content="Ants explorers:" Width="140" />
+                    <TextBox Width="70" Text="{Binding AntsExplorerCount}" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Feromon:" Width="140" />
+                    <TextBox Width="70" Text="{Binding FeromonAnts}" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,0,102,0">
+                    <Label Content="Span anthills:" Width="140" />
+                    <TextBox Width="70" Text="{Binding SpanAnthills}" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,0,102,0">
+                    <Label Content="Diversification Time:" Width="140
+                           " />
+                    <TextBox Width="35
+                             " Text="{Binding DiversificationTime}" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,0,102,0">
+                    <Label Content="Count of iterations:" Width="140" />
+                    <TextBox Width="66" Text="{Binding InterationCount}" />
+                </StackPanel>
+                <Button Content="Add" Command="{Binding AddColony}" IsEnabled="{Binding CounterExamplesButton}" Margin="0,0,118,0" />
+            </StackPanel>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="229" Margin="283,28,0,0"
+                Grid.Row="1" VerticalAlignment="Top" Width="157">
+            <ListBox ItemsSource="{Binding Colonies}" Margin="-1,-1,1,1">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <CheckBox Content="{Binding Ants}" Margin="5 5 0 0" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Border>
+        <Button x:Name="SetSettingsbtn" Content="Set Settings" Command="{Binding SetSettings}"
+                HorizontalAlignment="Left" Height="26" Margin="573,617,0,0" Grid.Row="1" VerticalAlignment="Top"
+                Width="107" />
+        <Button x:Name="StartBtn" Content="Start" Command="{Binding Start}" HorizontalAlignment="Left" Height="26"
+                Margin="349,647,0,0" Grid.Row="1" VerticalAlignment="Top" Width="107" />
+        <Button x:Name="Pause" Content="Pause" Command="{Binding Pause}" HorizontalAlignment="Left" Height="26"
+                Margin="461,647,0,0" Grid.Row="1" VerticalAlignment="Top" Width="107" />
+        <Button x:Name="Stop" Content="Stop" Command="{Binding Stop}" HorizontalAlignment="Left" Height="26"
+                Margin="573,647,0,0" Grid.Row="1" VerticalAlignment="Top" Width="107" />
+        <Button x:Name="SelectPositiveExamples_Copy" Content="Deselect all"
+                Command="{Binding DeselectAllPositiveExamples}" IsEnabled="{Binding PositiveExamplesButton}"
+                HorizontalAlignment="Left" Height="22" Margin="26,590,0,0" Grid.Row="1" VerticalAlignment="Top"
+                Width="90" />
+        <Button x:Name="SelectCounterExamples_Copy" Content="Deselect all"
+                Command="{Binding DeselectAllCounterExamples}" IsEnabled="{Binding CounterExamplesButton}"
+                HorizontalAlignment="Left" Height="22" Margin="187,590,0,0" Grid.Row="1" VerticalAlignment="Top"
+                Width="91" />
+        <Button x:Name="SelectCounterExamples_Copy1" Content="Select all"
+                Command="{Binding SelectAllSelectedPositiveExamples}" IsEnabled="{Binding CounterExamplesButton}"
+                HorizontalAlignment="Left" Height="22" Margin="458,590,0,0" Grid.Row="1" VerticalAlignment="Top"
+                Width="61" />
+        <Button x:Name="SelectCounterExamples_Copy2" Content="Deselect all"
+                Command="{Binding DeselectAllSelectedPositiveExamples}" IsEnabled="{Binding CounterExamplesButton}"
+                HorizontalAlignment="Left" Height="22" Margin="362,590,0,0" Grid.Row="1" VerticalAlignment="Top"
+                Width="91" />
+        <Button x:Name="SelectCounterExamples_Copy3" Content="Select all"
+                Command="{Binding SelectAllSelectedCounterExamples}" IsEnabled="{Binding CounterExamplesButton}"
+                HorizontalAlignment="Left" Height="22" Margin="620,590,0,0" Grid.Row="1" VerticalAlignment="Top"
+                Width="61" />
+        <Button x:Name="SelectCounterExamples_Copy4" Content="Deselect all"
+                Command="{Binding DeselectAllSelectedCounterExamples}" IsEnabled="{Binding CounterExamplesButton}"
+                HorizontalAlignment="Left" Height="22" Margin="524,590,0,0" Grid.Row="1" VerticalAlignment="Top"
+                Width="91" />
+        <Button x:Name="SelectCounterExamples_Copy5" Content="Select all" Command="{Binding SelectAllCounterExamples}"
+                IsEnabled="{Binding CounterExamplesButton}" HorizontalAlignment="Left" Height="22" Margin="187,617,0,0"
+                Grid.Row="1" VerticalAlignment="Top" Width="157" />
+        <Button x:Name="SelectCounterExamples_Copy6" Content="Select all" Command="{Binding SelectAllPositiveExamples}"
+                IsEnabled="{Binding CounterExamplesButton}" HorizontalAlignment="Left" Height="22" Margin="26,617,0,0"
+                Grid.Row="1" VerticalAlignment="Top" Width="157" />
+        <ProgressBar Name="Prog" HorizontalAlignment="Left" Height="29" Maximum="1" Minimum="0"
+                     Value="{Binding GraphBuildStat}" Margin="461,58,0,0" Grid.Row="1" VerticalAlignment="Top"
+                     Width="220" />
+        <Label x:Name="GrapgBuildPercentage" Content="{Binding GraphBuildPercentage}" HorizontalAlignment="Left"
+               Height="25" Margin="853,62,0,0" Grid.Row="1" VerticalAlignment="Top" Width="80" />
+        <ProgressBar x:Name="Prog_Copy" HorizontalAlignment="Left" Height="29" Maximum="1" Minimum="0"
+                     Value="{Binding GraphSearchStat}" Margin="458,112,0,0" Grid.Row="1" VerticalAlignment="Top"
+                     Width="223" />
+        <Label x:Name="label" Content="Progress:&#xD;&#xA;" HorizontalAlignment="Left" Margin="461,24,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140"/>
+        <Label x:Name="label_Copy" Content="Configuration:&#xA;" HorizontalAlignment="Left" Margin="26,5,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140"/>
+        <Label x:Name="label_Copy1" Content="Training sets:&#xA;" HorizontalAlignment="Left" Margin="26,286,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140"/>
+        <Label x:Name="label_Copy2" Content="Test sets:&#xA;" HorizontalAlignment="Left" Margin="398,286,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140"/>
+        <Label x:Name="label_Copy3" Content="Positive examples:&#xA;" HorizontalAlignment="Left" Margin="25,319,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140"/>
+        <Label x:Name="label_Copy4" Content="Counter examples:&#xA;" HorizontalAlignment="Left" Margin="182,319,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140"/>
+        <Label x:Name="label_Copy5" Content="Positive examples:&#xA;" HorizontalAlignment="Left" Margin="398,319,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140"/>
+        <Label x:Name="label_Copy6" Content="Counter examples:&#xA;" HorizontalAlignment="Left" Margin="524,319,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140"/>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\bin\Debug\Bioinformatics.Buissness.Proxies.dll.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\bin\Debug\Bioinformatics.Buissness.Proxies.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\bin\Debug\Bioinformatics.Buissness.Proxies.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\bin\Debug\Bioinformatics.Buissness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\bin\Debug\Bioinformatics.Buissness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\bin\Debug\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\bin\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\bin\Debug\Bioinformatics.Buissness.Contracts.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\bin\Debug\Bioinformatics.Buissness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\bin\Debug\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\bin\Debug\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\obj\Debug\Bioinformatics.Buissness.Proxies.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\obj\Debug\Bioinformatics.Buissness.Proxies.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Proxies\obj\Debug\Bioinformatics.Buissness.Proxies.pdb

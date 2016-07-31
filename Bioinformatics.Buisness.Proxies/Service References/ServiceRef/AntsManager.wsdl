@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy"
+                  xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/"
+                  xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract"
+                  xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/"
+                  xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex"
+                  xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy"
+                  xmlns:i0="http://schemas.microsoft.com/ws/2005/02/mex/bindings"
+                  xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata"
+                  xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing"
+                  xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/"
+                  xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl"
+                  xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+                  xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd"
+                  xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="AntsManager" targetNamespace="http://tempuri.org/"
+                  xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:import namespace="http://schemas.microsoft.com/ws/2005/02/mex/bindings"
+               location="http://localhost:17492/AntsService.svc?wsdl=wsdl0" />
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:17492/AntsService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:17492/AntsService.svc?xsd=xsd1"
+                  namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:17492/AntsService.svc?xsd=xsd2"
+                  namespace="http://schemas.datacontract.org/2004/07/Bioinformatics.Common.Others" />
+      <xsd:import schemaLocation="http://localhost:17492/AntsService.svc?xsd=xsd3"
+                  namespace="http://schemas.datacontract.org/2004/07/Bioinformatics.Buisness.Models" />
+      <xsd:import schemaLocation="http://localhost:17492/AntsService.svc?xsd=xsd4"
+                  namespace="http://schemas.datacontract.org/2004/07/Bioinformatics.Buisness.Models.Ants" />
+      <xsd:import schemaLocation="http://localhost:17492/AntsService.svc?xsd=xsd5"
+                  namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IAntsManager_GetCurrentAntsSettings_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCurrentAntsSettings" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_GetCurrentAntsSettings_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCurrentAntsSettingsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_SetAntsSettings_InputMessage">
+    <wsdl:part name="parameters" element="tns:SetAntsSettings" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_SetAntsSettings_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SetAntsSettingsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_GetPositiveNodes_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPositiveNodes" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_GetPositiveNodes_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPositiveNodesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_GetNegativeNodes_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetNegativeNodes" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_GetNegativeNodes_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetNegativeNodesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_Start_InputMessage">
+    <wsdl:part name="parameters" element="tns:Start" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_Start_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StartResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_Pause_InputMessage">
+    <wsdl:part name="parameters" element="tns:Pause" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_Pause_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PauseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_Finish_InputMessage">
+    <wsdl:part name="parameters" element="tns:Finish" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_Finish_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinishResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_GetManagerState_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetManagerState" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_GetManagerState_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetManagerStateResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_GraphBuildStat_InputMessage">
+    <wsdl:part name="parameters" element="tns:GraphBuildStat" />
+  </wsdl:message>
+  <wsdl:message name="IAntsManager_GraphBuildStat_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GraphBuildStatResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IAntsManager">
+    <wsdl:operation name="GetCurrentAntsSettings">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAntsManager/GetCurrentAntsSettings"
+                  message="tns:IAntsManager_GetCurrentAntsSettings_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAntsManager/GetCurrentAntsSettingsResponse"
+                   message="tns:IAntsManager_GetCurrentAntsSettings_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SetAntsSettings">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAntsManager/SetAntsSettings"
+                  message="tns:IAntsManager_SetAntsSettings_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAntsManager/SetAntsSettingsResponse"
+                   message="tns:IAntsManager_SetAntsSettings_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPositiveNodes">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAntsManager/GetPositiveNodes"
+                  message="tns:IAntsManager_GetPositiveNodes_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAntsManager/GetPositiveNodesResponse"
+                   message="tns:IAntsManager_GetPositiveNodes_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNegativeNodes">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAntsManager/GetNegativeNodes"
+                  message="tns:IAntsManager_GetNegativeNodes_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAntsManager/GetNegativeNodesResponse"
+                   message="tns:IAntsManager_GetNegativeNodes_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Start">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAntsManager/Start" message="tns:IAntsManager_Start_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAntsManager/StartResponse"
+                   message="tns:IAntsManager_Start_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Pause">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAntsManager/Pause" message="tns:IAntsManager_Pause_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAntsManager/PauseResponse"
+                   message="tns:IAntsManager_Pause_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Finish">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAntsManager/Finish" message="tns:IAntsManager_Finish_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAntsManager/FinishResponse"
+                   message="tns:IAntsManager_Finish_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetManagerState">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAntsManager/GetManagerState"
+                  message="tns:IAntsManager_GetManagerState_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAntsManager/GetManagerStateResponse"
+                   message="tns:IAntsManager_GetManagerState_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GraphBuildStat">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAntsManager/GraphBuildStat"
+                  message="tns:IAntsManager_GraphBuildStat_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAntsManager/GraphBuildStatResponse"
+                   message="tns:IAntsManager_GraphBuildStat_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:service name="AntsManager">
+    <wsdl:port name="MetadataExchangeHttpBinding_IAntsManager" binding="i0:MetadataExchangeHttpBinding_IAntsManager">
+      <soap12:address location="http://localhost:17492/AntsService.svc/mex" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>http://localhost:17492/AntsService.svc/mex</wsa10:Address>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

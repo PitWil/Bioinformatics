@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Bioinformatics.Buisness.Models.Ants"
+           elementFormDefault="qualified"
+           targetNamespace="http://schemas.datacontract.org/2004/07/Bioinformatics.Buisness.Models.Ants"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfColonyOfAnts">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ColonyOfAnts" nillable="true" type="tns:ColonyOfAnts" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfColonyOfAnts" nillable="true" type="tns:ArrayOfColonyOfAnts" />
+  <xs:complexType name="ColonyOfAnts">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Ants" nillable="true" type="tns:ArrayOfAnt" />
+      <xs:element minOccurs="0" name="AntsHillSize" type="xs:int" />
+      <xs:element minOccurs="0" name="DiversificationTime" type="xs:int" />
+      <xs:element minOccurs="0" name="InterationCount" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ColonyOfAnts" nillable="true" type="tns:ColonyOfAnts" />
+  <xs:complexType name="ArrayOfAnt">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Ant" nillable="true" type="tns:Ant" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfAnt" nillable="true" type="tns:ArrayOfAnt" />
+  <xs:complexType name="Ant">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="feromon" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Ant" nillable="true" type="tns:Ant" />
+</xs:schema>

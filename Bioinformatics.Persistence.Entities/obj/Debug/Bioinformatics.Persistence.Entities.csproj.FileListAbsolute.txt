@@ -1,0 +1,14 @@
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Entities\bin\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Entities\bin\Debug\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Entities\bin\Debug\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Entities\bin\Debug\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Entities\obj\Debug\Bioinformatics.Persistence.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Entities\obj\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Persistence.Entities\obj\Debug\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Persistence.Entities\bin\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Persistence.Entities\bin\Debug\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Persistence.Entities\bin\Debug\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Persistence.Entities\bin\Debug\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Persistence.Entities\obj\Debug\Bioinformatics.Persistence.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Persistence.Entities\obj\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Persistence.Entities\obj\Debug\Bioinformatics.Persistence.Entities.pdb

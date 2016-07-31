@@ -1,0 +1,52 @@
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\obj\Debug\Bioinformatics.Buisness.Implementations.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Implementations.dll.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Implementations.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Implementations.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Autofac.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Autofac.Integration.Wcf.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\AutoMapper.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Persistence.Interfaces.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Persistence.Services.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Contracts.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Persistence.Interfaces.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Persistence.Services.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Autofac.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Autofac.Integration.Wcf.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\AutoMapper.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\obj\Debug\Bioinformatics.Buisness.Implementations.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Implementations\obj\Debug\Bioinformatics.Buisness.Implementations.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Implementations.dll.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Implementations.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Implementations.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Autofac.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Autofac.Integration.Wcf.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\AutoMapper.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Persistence.Interfaces.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Persistence.Services.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Contracts.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Buisness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Persistence.Interfaces.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Bioinformatics.Persistence.Services.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Autofac.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Autofac.Integration.Wcf.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\AutoMapper.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\obj\Debug\Bioinformatics.Buisness.Implementations.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\obj\Debug\Bioinformatics.Buisness.Implementations.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Implementations\obj\Debug\Bioinformatics.Buisness.Implementations.pdb

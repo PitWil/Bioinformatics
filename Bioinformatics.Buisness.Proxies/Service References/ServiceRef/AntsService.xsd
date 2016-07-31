@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:17492/AntsService.svc?xsd=xsd2"
+             namespace="http://schemas.datacontract.org/2004/07/Bioinformatics.Common.Others" />
+  <xs:import schemaLocation="http://localhost:17492/AntsService.svc?xsd=xsd3"
+             namespace="http://schemas.datacontract.org/2004/07/Bioinformatics.Buisness.Models" />
+  <xs:element name="GetCurrentAntsSettings">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetCurrentAntsSettingsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Bioinformatics.Common.Others" minOccurs="0"
+                    name="GetCurrentAntsSettingsResult" nillable="true"
+                    type="q1:DataResultOfAntsConfigurationModelWgR0Z4vp" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SetAntsSettings">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/Bioinformatics.Buisness.Models" minOccurs="0"
+                    name="antsConfiguration" nillable="true" type="q2:AntsConfigurationModel" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SetAntsSettingsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/Bioinformatics.Common.Others" minOccurs="0"
+                    name="SetAntsSettingsResult" nillable="true" type="q3:Result" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPositiveNodes">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPositiveNodesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/Bioinformatics.Common.Others" minOccurs="0"
+                    name="GetPositiveNodesResult" nillable="true" type="q4:DataResultOfArrayOfProteinNodeWgR0Z4vp" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetNegativeNodes">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetNegativeNodesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/Bioinformatics.Common.Others" minOccurs="0"
+                    name="GetNegativeNodesResult" nillable="true" type="q5:DataResultOfArrayOfProteinNodeWgR0Z4vp" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Start">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StartResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/Bioinformatics.Common.Others" minOccurs="0"
+                    name="StartResult" nillable="true" type="q6:Result" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Pause">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PauseResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/Bioinformatics.Common.Others" minOccurs="0"
+                    name="PauseResult" nillable="true" type="q7:Result" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Finish">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FinishResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/Bioinformatics.Common.Others" minOccurs="0"
+                    name="FinishResult" nillable="true" type="q8:Result" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetManagerState">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetManagerStateResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/Bioinformatics.Buisness.Models" minOccurs="0"
+                    name="GetManagerStateResult" type="q9:ManagerState" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GraphBuildStat">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GraphBuildStatResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/Bioinformatics.Buisness.Models" minOccurs="0"
+                    name="GraphBuildStatResult" nillable="true" type="q10:StatusEntity" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

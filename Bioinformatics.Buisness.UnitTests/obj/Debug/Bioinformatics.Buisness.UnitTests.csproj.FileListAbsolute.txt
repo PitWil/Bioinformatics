@@ -1,0 +1,58 @@
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\obj\Debug\Bioinformatics.Buisness.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.UnitTests.dll.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.UnitTests.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.UnitTests.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.Implementations.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Persistence.Interfaces.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Persistence.Services.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Moq.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\nunit.mocks.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\AutoMapper.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.Contracts.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.Implementations.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Persistence.Interfaces.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Persistence.Services.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Moq.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\AutoMapper.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\obj\Debug\Bioinformatics.Buisness.UnitTests.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.UnitTests\obj\Debug\Bioinformatics.Buisness.UnitTests.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.UnitTests.dll.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.UnitTests.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.UnitTests.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.Implementations.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Persistence.Interfaces.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Persistence.Services.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Moq.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\nunit.mocks.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\AutoMapper.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.Contracts.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.Implementations.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Buisness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Persistence.Interfaces.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Bioinformatics.Persistence.Services.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Moq.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\AutoMapper.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\obj\Debug\Bioinformatics.Buisness.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\obj\Debug\Bioinformatics.Buisness.UnitTests.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.UnitTests\obj\Debug\Bioinformatics.Buisness.UnitTests.pdb

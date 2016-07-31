@@ -1,0 +1,28 @@
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Proxies.dll.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Proxies.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Proxies.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Contracts.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\obj\Debug\Bioinformatics.Buisness.Proxies.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\obj\Debug\Bioinformatics.Buisness.Proxies.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Proxies\obj\Debug\Bioinformatics.Buisness.Proxies.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Proxies.dll.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Proxies.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Proxies.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Contracts.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Buisness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\bin\Debug\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\obj\Debug\Bioinformatics.Buisness.Proxies.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\obj\Debug\Bioinformatics.Buisness.Proxies.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Proxies\obj\Debug\Bioinformatics.Buisness.Proxies.pdb

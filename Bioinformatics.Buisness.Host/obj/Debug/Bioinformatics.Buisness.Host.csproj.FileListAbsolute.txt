@@ -1,0 +1,172 @@
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\obj\Debug\Bioinformatics.Buisness.Host.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\roslyn\csc.exe
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\roslyn\vbc.exe
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\roslyn\VBCSCompiler.exe
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Host.dll.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Host.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Host.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Autofac.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Autofac.Integration.Wcf.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Implementations.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Persistence.Interfaces.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Persistence.Services.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.Hosting.OData.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.Server.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\AutoMapper.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Newtonsoft.Json.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Contracts.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Implementations.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Persistence.Interfaces.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Bioinformatics.Persistence.Services.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Autofac.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Autofac.Integration.Wcf.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.EntityFramework.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.Hosting.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.Hosting.OData.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.Server.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\AutoMapper.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\Newtonsoft.Json.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\de\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\es\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\fr\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\it\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\ja\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\ko\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\ru\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\zh-Hans\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\zh-Hant\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\de\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\es\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\fr\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\it\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\ja\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\ko\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\ru\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\bin\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\obj\Debug\Bioinformatics.Buisness.Host.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buisness.Host\obj\Debug\Bioinformatics.Buisness.Host.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\roslyn\csc.exe
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\roslyn\vbc.exe
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\roslyn\VBCSCompiler.exe
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Host.dll.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Host.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Host.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Autofac.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Autofac.Integration.Wcf.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Implementations.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Persistence.Interfaces.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Persistence.Services.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.Hosting.OData.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.Server.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\AutoMapper.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Newtonsoft.Json.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Contracts.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Implementations.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Buisness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Persistence.Interfaces.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Bioinformatics.Persistence.Services.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Autofac.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Autofac.Integration.Wcf.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.EntityFramework.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.Hosting.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.Hosting.OData.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\System.ServiceModel.DomainServices.Server.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\AutoMapper.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\Newtonsoft.Json.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\de\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\es\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\fr\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\it\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\ja\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\ko\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\ru\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\zh-Hans\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\zh-Hant\System.ServiceModel.DomainServices.Hosting.OData.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\de\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\es\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\fr\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\it\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\ja\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\ko\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\ru\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\bin\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\obj\Debug\Bioinformatics.Buisness.Host.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\obj\Debug\Bioinformatics.Buisness.Host.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Buisness.Host\obj\Debug\Bioinformatics.Buisness.Host.pdb

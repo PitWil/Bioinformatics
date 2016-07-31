@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Service="Bioinformatics.Buisness.Contracts.Ants.IAntsManager,Bioinformatics.Buisness.Contracts" Factory="Autofac.Integration.Wcf.AutofacServiceHostFactory, Autofac.Integration.Wcf"  Debug="true" Language="C#"%>

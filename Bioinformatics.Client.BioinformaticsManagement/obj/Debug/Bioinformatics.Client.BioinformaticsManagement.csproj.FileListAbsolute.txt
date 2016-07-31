@@ -1,0 +1,106 @@
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\Bioinformatics.Client.BioinformaticsManagement.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\MainWindow.g.cs
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\App.g.cs
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement_MarkupCompile.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement_MarkupCompile.lref
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\BioinformaticsManagement.exe.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\BioinformaticsManagement.exe.manifest
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\BioinformaticsManagement.application
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\BioinformaticsManagement.exe
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\BioinformaticsManagement.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Implementations.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Proxies.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Persistence.Interfaces.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Persistence.Services.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\AutoMapper.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Contracts.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Implementations.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Proxies.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Persistence.Interfaces.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Persistence.Services.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\AutoMapper.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\App.baml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\MainWindow.baml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.g.resources
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\Bioinformatics.Client.BioinformaticsManagement.Properties.Resources.resources
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\Bioinformatics.Client.BioinformaticsManagement.csproj.GenerateResource.Cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.exe.manifest
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.application
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.exe
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\BioinformaticsManagement.exe.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\BioinformaticsManagement.exe.manifest
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\BioinformaticsManagement.application
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\BioinformaticsManagement.exe
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\BioinformaticsManagement.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Contracts.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Implementations.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Proxies.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Persistence.Entities.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Persistence.Interfaces.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Persistence.Services.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\AutoMapper.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Contracts.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Implementations.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Buisness.Proxies.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Persistence.Entities.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Persistence.Interfaces.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Bioinformatics.Persistence.Services.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\AutoMapper.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\Bioinformatics.Client.BioinformaticsManagement.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\MainWindow.g.cs
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\App.g.cs
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement_MarkupCompile.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement_MarkupCompile.lref
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\App.baml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\MainWindow.baml
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.g.resources
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\Bioinformatics.Client.BioinformaticsManagement.Properties.Resources.resources
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\Bioinformatics.Client.BioinformaticsManagement.csproj.GenerateResource.Cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.exe.manifest
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.application
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.exe
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics — kopia (2)\Bioinformatics.Client.BioinformaticsManagement\obj\Debug\BioinformaticsManagement.pdb

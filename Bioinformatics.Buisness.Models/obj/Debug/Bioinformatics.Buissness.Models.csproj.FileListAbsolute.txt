@@ -1,0 +1,8 @@
+c:\users\małgorzata\documents\visual studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Models\bin\Debug\Bioinformatics.Buissness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Models\bin\Debug\Bioinformatics.Buissness.Models.dll.config
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Models\bin\Debug\Bioinformatics.Common.Others.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Models\bin\Debug\Bioinformatics.Common.Others.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Models\obj\Debug\Bioinformatics.Buissness.Models.csprojResolveAssemblyReference.cache
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Models\obj\Debug\Bioinformatics.Buissness.Models.dll
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Models\obj\Debug\Bioinformatics.Buissness.Models.pdb
+C:\Users\Małgorzata\Documents\Visual Studio 2015\Projects\Bioinformatics\Bioinformatics.Buissness.Models\bin\Debug\Bioinformatics.Buissness.Models.pdb
